@@ -67,5 +67,5 @@ TaskList.propTypes = {
   TaskList.defaultProps = {
     loading: false,
   };
-  
+
 export default TaskList;

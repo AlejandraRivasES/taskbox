@@ -1,5 +1,3 @@
-// src/components/TaskList.test.js
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 import TaskList from './TaskList';
